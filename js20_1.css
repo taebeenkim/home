@@ -1,0 +1,20 @@
+h1 {
+    color: rgb(72, 154, 226);
+}
+
+input {
+    width: 40px;
+    height: 40px;
+    font-size: 20px;
+    text-align: center;
+}
+
+#result {
+    font-size: 20px;
+}
+
+#btn {
+    width: 150px;
+    height: 30px;
+    margin: 5px;
+}

@@ -1,0 +1,18 @@
+h1 {
+  background-color: darkblue;
+  color: yellow;
+  font-size: 50px;
+}
+
+a:link, a:visited {
+  font-size: 30px;
+  color: blueviolet;
+  text-decoration: none;
+}
+
+a:hover {
+  font-size: 35px;
+  text-decoration: underline;
+  color: white;
+  background-color: darkorange;
+}
